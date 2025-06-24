@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @D3monSlayr
-- 👀 I’m interested in Python and probably C++ later
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Discord. 
+- 👋 Hi, I’m @Ferzic
+- 👀 I’m interested in Paper plugin development
+- 🌱 I’m currently learning Paper plugin dev
+- 💞️ I’m looking to collaborate in my Minecraft Server
 - 📫 Use my email: dmonslayr286@gmail.com or head to a repo of mine and find it yourself
 - 😄 Pronouns: He/Him/Programmer
 - ⚡ Fun fact: You can do anything, through God
