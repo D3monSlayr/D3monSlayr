@@ -1,4 +1,4 @@
-- Miencraft Dev
+- Minecraft Dev
 - Beginner Rust Dev
 - Discord: .kythera.
 
